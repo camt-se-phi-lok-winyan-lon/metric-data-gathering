@@ -1,0 +1,4 @@
+number,name,url,lint_score,test_coverage,document_score,activeness
+0,waifuim,https://github.com/avizum/waifuim.git,0.00,0%,0,10.333333333333334,
+1,waifu2x-ncnn-py,https://github.com/Tohrusky/waifu2x-ncnn-py.git,0.00,0%,0,0.144,
+2,animu,https://github.com/eitozx/Animu.git,4.84,0%,1,0.061946902654867256,

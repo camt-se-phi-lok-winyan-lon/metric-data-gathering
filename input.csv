@@ -1,0 +1,4 @@
+name,pypi_apiurl,git_repo,
+waifuim,https://pypi.org/pypi/waifuim/json,https://github.com/avizum/waifuim.git,
+waifu2x-ncnn-py,https://pypi.org/pypi/aiohoripy/json,https://github.com/Tohrusky/waifu2x-ncnn-py.git,
+animu,https://pypi.org/pypi/animu/json,https://github.com/eitozx/Animu.git,
