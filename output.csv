@@ -1,4 +1,5 @@
 number,name,url,lint_score,test_coverage,document_score,activeness
-0,waifuim,https://github.com/avizum/waifuim.git,0.00,0%,0,10.333333333333334,
-1,waifu2x-ncnn-py,https://github.com/Tohrusky/waifu2x-ncnn-py.git,0.00,0%,0,0.144,
-2,animu,https://github.com/eitozx/Animu.git,4.84,0%,1,0.061946902654867256,
+0,pypokedex,https://github.com/arnavb/pypokedex.git,6.78,33%,2,0.07193077339102218,
+1,prefect-pokemon,https://github.com/desertaxle/prefect-pokemon.git,6.62,100%,4,0.014285714285714285,
+2,pokemon,https://github.com/vsoch/pokemon.git,5.96,78%,3,0.012674271229404309,
+3,pokemonlib,https://github.com/arthuro555/pokemonlib.git,5.17,0%,0,0.20810810810810812,
