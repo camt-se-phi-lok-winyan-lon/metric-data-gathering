@@ -39,7 +39,10 @@ def main(filename):
             os.chdir(project_dir)
 
             # You can uncomment the following lines if you want to install requirements and run pytest.
-            subprocess.run(["pip", "install", "-r", "requirements.txt"])
+            try:
+                subprocess.run(["pip", "install", "-r", "requirements.txt"])
+            except Exception:
+                print("Not requirements.txt")
             subprocess.run(["coverage", "run", "-m", "pytest"])
 
     #         # Write project information to text.txt
