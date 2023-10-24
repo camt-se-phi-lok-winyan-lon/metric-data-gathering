@@ -1,6 +1,5 @@
 name,pypi_apiurl,git_repo
 pycord,https://pypi.org/pypi/pycord/json,https://github.com/alesanfra/pycord.git
-nextcord,https://pypi.org/pypi/nextcord/json,https://github.com/nextcord/nextcord.git
 holiday-event-api,https://pypi.org/project/holiday-event-api/,https://github.com/westy92/holiday-event-api-python.git
 Django,https://pypi.org/project/Django/,https://github.com/django/django
 Flask,https://pypi.org/project/Flask/,https://github.com/pallets/flask/
