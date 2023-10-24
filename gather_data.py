@@ -6,6 +6,7 @@ def days_between(d1, d2):
     date_format = "%Y-%m-%d"
     d1 = datetime.strptime(d1, date_format).date()
     d2 = datetime.strptime(d2, date_format).date()
+    if d1 == d2 : return 1
     return abs((d2 - d1).days)
 
 
