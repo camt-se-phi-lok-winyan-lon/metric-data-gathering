@@ -1,0 +1,8 @@
+name,pypi_apiurl,git_repo
+pycord,https://pypi.org/pypi/pycord/json,https://github.com/alesanfra/pycord.git,
+holiday-event-api,https://pypi.org/project/holiday-event-api/,https://github.com/westy92/holiday-event-api-python.git,
+pypokedex,https://pypi.org/pypi/pypokedex/json,https://github.com/arnavb/pypokedex.git,
+prefect-pokemon,https://pypi.org/pypi/prefect-pokemon/json,https://github.com/desertaxle/prefect-pokemon.git,
+pokemon,https://pypi.org/pypi/pokemon/json,https://github.com/vsoch/pokemon.git,
+pokemonlib,https://pypi.org/pypi/pokemonlib/json,https://github.com/arthuro555/pokemonlib.git,
+palettetown,https://pypi.org/pypi/palettetown/json,https://github.com/rowland-208/palettetown.git,
